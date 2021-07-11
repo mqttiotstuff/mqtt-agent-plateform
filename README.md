@@ -5,3 +5,8 @@ Publish simple metrics on MQTT about the plateform
 CPU, 
 Disk space
 percentage free
+
+## requierments 
+
+	pip install psutil
+
