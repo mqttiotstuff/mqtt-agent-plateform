@@ -6,7 +6,7 @@ CPU,
 Disk space
 percentage free
 
-## requierments 
+## Requirements python prerequisis 
 
 	pip install psutil
 
